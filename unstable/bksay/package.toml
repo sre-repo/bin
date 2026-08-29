@@ -1,0 +1,8 @@
+[info]
+name = "bksay"
+version = "1"
+description = "boykisser say"
+source = "haha no"
+
+[build]
+inst = "git clone https://www.github.com/kasapeli/bksay.git && cd bksay && cargo build --release"
