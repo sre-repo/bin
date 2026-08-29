@@ -5,4 +5,4 @@ version = "0.1"
 source = "https://www.github.com/sre-repo/bin/tree/main/stable/larp"
 
 [build]
-run-once = "build.sh"
+inst = "build.sh"
