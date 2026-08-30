@@ -5,4 +5,4 @@ description = "boykisser say"
 source = "haha no"
 
 [build]
-inst = "git clone https://www.github.com/kasapeli/bksay.git ~/.srepkgs/tool/bksay && cd ~/.srepkgs/tool/bksay && cargo build --release && ln -sf ./target/release/sre ~/.local/bin"
+inst = "git clone https://www.github.com/kasapeli/bksay.git ~/.srepkgs/tool/bksay && cd ~/.srepkgs/tool/bksay && cargo build --release && ln -sf ~/target/release/bksay ~/.local/bin/bksay"
